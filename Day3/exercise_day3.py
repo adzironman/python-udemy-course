@@ -23,3 +23,6 @@ print(list_of_words)
 print(type(list_of_words))
 reverse = list_of_words.reverse()
 print(f"\n8. Reverse words order {list_of_words}")
+
+text = "dasdasd"
+text.s()
